@@ -1,7 +1,7 @@
 <template>
   <section class="program-club">
     <!-- 这里用的是bootstrap的flexbox布局 -->
-    <div class="club-box row">
+    <div class="club-box row" style="margin: 0 auto">
       <!-- 有几个col就表示每个col的标签 占父元素 col数量/100 这里两个col所以是每个占50%-->
       <div class="club-left col">
         <h2 class="h2 mb-4">星享俱乐部</h2>
@@ -29,8 +29,8 @@
 import accountComponent from './accountComponent'
 export default {
   components: {
-    accountComponent,
-  },
+    accountComponent
+  }
 }
 </script>
 
