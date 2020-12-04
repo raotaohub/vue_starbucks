@@ -27,7 +27,7 @@ Vue.use(Router)
 
 export default new Router({
   //将访问记录保存到 某处 ，具体不知~
-  mode: 'history',
+  // mode: 'history',//打包上线 关闭改模式
   // linkActiveClass,       这两个配置可以配置一个 字符串 ’‘ 里面写一个类名 ，然后可以去css书写处 写 .xxx{样式} 
   // linkExactActiveClass,  当然你不配置的话直接写.linkActiveClass{样式}, .linkExactActiveClass{样式} 也可以; 
   // 两个有点区别 https://router.vuejs.org/zh/api/#linkactiveclass 去官方文档看看吧。
