@@ -1,0 +1,14 @@
+.primary {
+  color: inherit;
+  display: block;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding: 5px 10px 5px;
+  text-transform: uppercase;
+}
+
+.display-happy {
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
