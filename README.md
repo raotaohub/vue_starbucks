@@ -7,15 +7,19 @@
 
     这个项目是基于 Vue.js 开发的PWA单页应用 技术栈为Vue + Vue Router + Vuex + webpack + Swpie + bootstrap
     
-    - 首页
-    ![首页](images/登录页.png)
-    
-     - 商品
-    ![商品](images/商品.png)
-    
-    ![商品](images/饮料.png)
-    
-    ![商品](images/饮料2.png)
+ **Github_page地址(点击进入)[https://raotaohub.github.io/vue_starbucks/]**
+
+- 首页
+
+![首页](images/登录页.png)
+
+- 商品
+
+![商品](images/商品.png)
+
+![商品](images/饮料.png)
+
+![商品](images/饮料2.png)
     
     
 ## 技术栈
