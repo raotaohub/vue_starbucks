@@ -1,4 +1,4 @@
-# vue_starbucks_afresh
+# vue_starbucks
 
 > A Vue.js project
 
